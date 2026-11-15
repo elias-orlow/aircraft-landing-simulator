@@ -1,0 +1,45 @@
+# ==========================
+# Python / uv
+# ==========================
+
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environment files
+.env
+
+
+# ==========================
+# Unity
+# ==========================
+
+/visualization/[Ll]ibrary/
+/visualization/[Tt]emp/
+/visualization/[Oo]bj/
+/visualization/[Bb]uild/
+/visualization/[Bb]uilds/
+/visualization/[Ll]ogs/
+/visualization/[Uu]ser[Ss]ettings/
+
+# Unity-generated Visual Studio files
+/visualization/*.csproj
+/visualization/*.sln
+/visualization/*.slnx
+
+
+# ==========================
+# IDE / Operating System
+# ==========================
+
+.idea/
+.vs/
+*.suo
+*.user
+*.userprefs
+
+.DS_Store
+Thumbs.db
