@@ -1,0 +1,17 @@
+{
+  "status": "DATA",
+  "data": [
+    {
+      "id": 1,
+      "time": 0,
+      "plane X": 300,
+      "plane Y": 300
+    },
+    {
+      "id": 2,
+      "time": 100,
+      "plane X": 295,
+      "plane Y": 290
+    }
+  ]
+}
